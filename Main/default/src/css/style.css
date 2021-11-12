@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.fullScreen {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/Main/default/src/img/background/BcgWindowsLogo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/*
+FTP nepodporuje node.js a heroku ano je free :D
+*/
